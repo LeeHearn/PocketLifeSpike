@@ -1,0 +1,12 @@
+C:\gitRepository\PocketLife\PocketLife\RateCollections\bin\Debug\RateCollections.exe.config
+C:\gitRepository\PocketLife\PocketLife\RateCollections\bin\Debug\RateCollections.exe
+C:\gitRepository\PocketLife\PocketLife\RateCollections\bin\Debug\RateCollections.pdb
+C:\gitRepository\PocketLife\PocketLife\RateCollections\bin\Debug\System.Data.SQLite.dll
+C:\gitRepository\PocketLife\PocketLife\RateCollections\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\gitRepository\PocketLife\PocketLife\RateCollections\obj\x86\Debug\RateCollection.Person.resources
+C:\gitRepository\PocketLife\PocketLife\RateCollections\obj\x86\Debug\RateCollections.Properties.Resources.resources
+C:\gitRepository\PocketLife\PocketLife\RateCollections\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\gitRepository\PocketLife\PocketLife\RateCollections\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\gitRepository\PocketLife\PocketLife\RateCollections\obj\x86\Debug\RateCollections.exe
+C:\gitRepository\PocketLife\PocketLife\RateCollections\obj\x86\Debug\RateCollections.pdb
+C:\gitRepository\PocketLife\PocketLife\RateCollections\bin\Debug\RateCollection.exe.config
